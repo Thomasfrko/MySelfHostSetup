@@ -1,0 +1,2 @@
+# MySelfHostSetup
+Self Hosted Setup
